@@ -23,5 +23,5 @@ func main() {
 	if err != nil {
 		log.Fatal(fmt.Errorf("spider.NewSpider.Run: %w", err))
 	}
-	log.Println("Spider finished")
+	log.Println("\nSpider finished")
 }
