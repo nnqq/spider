@@ -1,0 +1,7 @@
+http://ozon.ru
+https://ozon.ru
+http://google.com
+http://somesite.com
+http://non-existent.domain.tld
+https://ya.ru
+http://ёёёё
